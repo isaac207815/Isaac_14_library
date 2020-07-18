@@ -1,17 +1,21 @@
 # Isaac_14_library
 
-Title: HTML and CSS
+- List Title: HTML and CSS
 Author: Jon Duckett
 ISBN: 9781118008188
-
-Title: JavaScript and jQuery
+- List Title: JavaScript and jQuery
 Author: Jon Duckett
 ISBN: 9781118531648
 
-Title: Head First HTML and CSS
+- List Title: Head First HTML and CSS
 Author: Elisabeth Robson and Eric Freeman
 ISBN: 9780596159900
 
-Title: Digital Minimalism
+- List Title: Digital Minimalism
 Author: Cal Newport
 ISBN:  9780241341131
+
+
+
+
+
