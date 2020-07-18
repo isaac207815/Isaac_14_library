@@ -66,7 +66,29 @@ layout: layout.html
 
 Content goes here
 
+_______________________________________________________________________________________________
 
+
+
+
+
+<form name="demo-contact-form" method="POST" netlify action="/thanks">
+  <p>
+    <label>
+      Your Name:
+      <input type="text" name="name" />
+    </label>
+  </p>
+  <p>
+    <label>
+      Message:
+      <textarea name="message"></textarea>
+    </label>
+  </p>
+  <p>
+    <input type="submit" value="Send">
+  </p>
+</form>
 
 
 
