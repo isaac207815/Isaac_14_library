@@ -66,7 +66,7 @@ layout: layout.html
   <p>
     <label>
       Your Email: 
-      <input type="email" name="email" />
+      <input type="" name="" />
     </label>
   </p>
   <p>
