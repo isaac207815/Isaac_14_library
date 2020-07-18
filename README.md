@@ -27,12 +27,12 @@ layout: layout.html
   <p>
     <label>
       Your name:Isaac 
-      <input type="text" name="Isaac" />
+      <input type="text" name="" />
     </label>   
   </p>
   <p>
     <label>
-      Your Email:isaac207815xd@gmail.com 
+      Your Email: 
       <input type="email" name="email" />
     </label>
   </p>
@@ -72,7 +72,7 @@ layout: layout.html
   <p>
 
 
-[this link](https://www.google.com/search?sxsrf=ALeKk03Sgwb2DAhr6tBWJjVOPzgV71W-ug%3A1593828444406&ei=XOT_XqG2GM6Jr7wPxsiIyAI&q=demon+slayer+&oq=demon+slayer+&gs_lcp=CgZwc3ktYWIQAzIGCCMQJxATMgYIIxAnEBMyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBUOMGWOMGYPEIaABwAHgAgAFriAG5AZIBAzEuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwih1IvSwbLqAhXOxIsBHUYkAikQ4dUDCAw&uact=5)
+[this link](https://www.google.com/search?sxsrf=ALeKk03Sgwb2DAhr6tBWJjVOPzgV71W-ug%3A1593828444406&ei=XOT_XqG2GM6Jr7wPxsiIyAI&q=demon+slayer+&oq=demon+slayer+&gs_lcp=CgZwc3ktYWIQAzIGCCMQJxATMgYIIxAnEBHUYkAikQ4dUDCAw&uact=5)
 
 
 
